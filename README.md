@@ -3,7 +3,9 @@
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=muhammadkhizar89&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkhizar89" /> </p>
-
+<p>
+   <iframe src="https://assets.pinterest.com/ext/embed.html?id=643451865504790507" height="445" width="345" frameborder="0" scrolling="no"></iframe>
+</p>
 
 - 🔭 I’m currently working on **Portfolio**
 
