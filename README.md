@@ -3,9 +3,8 @@
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=muhammadkhizar89&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkhizar89" /> </p>
-<p align="right>
-   <img src="https://assets.pinterest.com/ext/embed.html?id=643451865504790507](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw3T4G9KVDaLr00YTdlh6VUF&ust=1718140719472000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjzkoz70YYDFQAAAAAdAAAAABAJ" height="445" width="345" frameborder="0" scrolling="no">
-</p>
+
+   <img  align="right src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw10dgXqI6NlVlYzl8HCMaCM&ust=1718142492089000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIil-9uB0oYDFQAAAAAdAAAAABAE" height="445" width="345" frameborder="0" scrolling="no">
 
 - 🔭 I’m currently working on **Portfolio**
 
