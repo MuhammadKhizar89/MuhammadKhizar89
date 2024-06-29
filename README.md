@@ -101,3 +101,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadkhizar89&show_icons=true&locale=en" alt="muhammadkhizar89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhizar89&" alt="muhammadkhizar89" /></p>
+
+<p><img align="center" src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=dark&font=baloo&extension=null" alt="muhammadkhizar89" /></p>
