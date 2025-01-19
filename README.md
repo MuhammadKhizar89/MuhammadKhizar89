@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Khizar</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=muhammadkhizar89&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkhizar89" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN Stack, DSA in C++**
+- 💬 Ask me about **Web Dev and Mobile Dev**
 
 - 📫 How to reach me **muhammadkhizar8919@gmail.com**
 
