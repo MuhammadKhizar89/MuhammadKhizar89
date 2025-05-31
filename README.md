@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=muhammadkhizar89&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkhizar89" /> </p>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzemVsdTVzZ2F6ZWV6bDR1NjJuMHpxM3ZjaXR1NThoZHBlZzl6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="muhammadkhizar89" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **FakeEstate(Property Buying App)**
+- 🔭 I’m currently working in BlingCloud as a FrontEnd Developer 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Web Dev and Mobile Dev**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" height="30" width="40" /></a>
-<a href="https://instagram.com/m.khizar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.khizar19" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m_khizar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.khizar19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
