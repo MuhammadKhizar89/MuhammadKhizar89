@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Khizar</h1>
+<h1 align="center">Hi I'm Muhammad Khizar</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left">
@@ -12,16 +12,12 @@
 
 - 📫 How to reach me **muhammadkhizar8919@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/m_khizar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.khizar19" height="30" width="40" /></a>
-</p>
 
 
 ## 🛠️ Languages and Tools:
 
 ### **Frontend Development**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -63,3 +59,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhizar89&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-khizar-undefined-0739192ab/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m_khizar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.khizar19" height="30" width="40" /></a>
+</p>
