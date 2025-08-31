@@ -43,11 +43,7 @@
    </a>
    
 </p>
-## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhizar89&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 
 <p align="left">
@@ -77,7 +73,7 @@
    </a>
   </p>
 
-## 📈 GitHub Analytics
+## Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadKhizar89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -89,3 +85,9 @@
 </div>
 
 <p><img align="center" src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=dark&font=baloo&extension=null" alt="muhammadkhizar89" /></p>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhizar89&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
