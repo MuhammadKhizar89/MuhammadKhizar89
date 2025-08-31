@@ -77,10 +77,15 @@
    </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadkhizar89&show_icons=true&locale=en&layout=compact" alt="muhammadkhizar89" /></p>
+## 📈 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadkhizar89&show_icons=true&locale=en" alt="muhammadkhizar89" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadKhizar89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhizar89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhizar89&" alt="muhammadkhizar89" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKhizar89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <p><img align="center" src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=dark&font=baloo&extension=null" alt="muhammadkhizar89" /></p>
