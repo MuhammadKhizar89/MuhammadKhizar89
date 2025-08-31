@@ -84,7 +84,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKhizar89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p><img align="center" src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=dark&font=baloo&extension=null" alt="muhammadkhizar89" /></p>
+<div align="center"><img align="center" src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=tokyonight&hide_border=true" alt="muhammadkhizar89" /></div>
 
 ## Contribution Graph
 
