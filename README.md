@@ -43,6 +43,13 @@
    </a>
    
 </p>
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhizar89&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+
 <p align="left">
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
