@@ -4,7 +4,7 @@
 <p align="left">
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzemVsdTVzZ2F6ZWV6bDR1NjJuMHpxM3ZjaXR1NThoZHBlZzl6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif">
 
-- 🔭 I’m currently working at **BlingCloud** as a Front-End Developer.
+- 🔭 I’m currently working at **BlingCloud** as a Software Engineer.
 
 - 🌱 I’m currently learning **ML**
 
